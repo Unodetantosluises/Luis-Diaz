@@ -29,7 +29,7 @@ function Header({toggle, setToggle}) {
                     </p>
                     <div className="btn-con">
                         <Button
-                            name={'Contratame'}
+                            name={'Contactame'}
                             blob={'blob'}
                             bg={theme.colorPrimary}
                             color={theme.colorWhite}

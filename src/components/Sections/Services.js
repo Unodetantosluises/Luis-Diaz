@@ -32,7 +32,7 @@ function Services() {
                     title={'Desarrollo Web'}
                     shadow={theme.shadowPrimary}
                     bg={theme.colorPrimary}
-                    desc={'Puedo llevar a cabo esa ide que tienes en mente, enfocado en (React y Nextjs.).'}
+                    desc={'Puedo ayudarte a llevar a cabo esa idea que tienes en mente, enfocado en (React y Nextjs).'}
                 />
             </div>
         </ServicesStyled>
